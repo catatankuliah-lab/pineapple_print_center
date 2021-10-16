@@ -146,7 +146,7 @@ class HomeState extends State<Home> {
                 controller: dataBerwarna,
                 keyboardType: const TextInputType.numberWithOptions(),
                 decoration: const InputDecoration(
-                  labelText: "Input Jumlah Berwarna (Lembar)",
+                  labelText: "Input Jumlah Berwarna (Lembar) ",
                   border: OutlineInputBorder(),
                 ),
                 onChanged: (clr) {
