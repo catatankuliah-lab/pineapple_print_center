@@ -1,4 +1,4 @@
-# lulu_copy_and_print
+# pineapple_copy_and_print
 
 A new Flutter project.
 
